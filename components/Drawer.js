@@ -6,8 +6,7 @@ import Link from 'next/link';
 import Nav_Icon from '../assets/nav_Icon.svg';
 import Home_Icon from '../assets/home_Icon.svg';
 import About_Icon from '../assets/AboutIcon.svg';
-import Contact_Icon from '../assets/ContactIcon.svg';
-import Partners_Icon from '../assets/PartnersIcon.svg';
+
 
 export default function TemporaryDrawer() {
     const headerMenu = [

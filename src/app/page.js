@@ -20,7 +20,6 @@ const Page = () => {
         {image:Home1_bg, title:""},
         {image:Home2_bg, title:""},
         {image:Home3_bg, title:""},
-        {image:Home4_bg, title:""},
 
     ]
     const Cards = data;
