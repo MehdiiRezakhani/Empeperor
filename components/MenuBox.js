@@ -11,7 +11,7 @@ export default function MenuBox() {
     return (
         <div className="flex flex-row-reverse items-center">
             <div className='flex flex-row-reverse items-center lg:items-end'>
-                <div className='w-5 h-4 lg:w-7 lg:h-6 cursor-pointer'>
+                <div className='lg:hidden w-5 h-4 lg:w-7 lg:h-6 cursor-pointer'>
                     <Drawer/>
                 </div>
                 <Link 

@@ -28,7 +28,7 @@ const RoadMap = () => {
                   <g id="coffee-badge">
                     <circle fill='#19FB9B' cx="311.581" cy="484.273" r="130.5"/>
                     <g id="coffee-title">
-                      <text transform="matrix(1 0 0 1 284.416 403.2793)" className='text-xl' fill='#000'>target</text>
+                      <text transform="matrix(1 0 0 1 270.416 403.2793)" className='text-xl' fill='#000'>target A</text>
                     </g>
                     <g id="coffee-details">
                       <text transform="matrix(1 0 0 1 219.7134 430.4023)" fill="#000" className='text-sm'>Web Site</text>
@@ -48,7 +48,7 @@ const RoadMap = () => {
                   <g id="design-badge">
                     <circle fill="#19FB9B" cx="711" cy="604.5" r="130.5"/>
                     <g id="design-title">
-                      <text transform="matrix(1 0 0 1 682.4639 523.5059)" fill="#000" className='text-xl'>target</text>
+                      <text transform="matrix(1 0 0 1 670.4639 523.5059)" fill="#000" className='text-xl'>target B</text>
                     </g>
                     <g id="design-details">
                       <text transform="matrix(1 0 0 1 610.1738 550.6289)" fill="#000" className="text-xs">Launch 10 Gambling Games</text>
@@ -82,7 +82,7 @@ const RoadMap = () => {
                   <g id="build-badge">
                     <circle fill="#19FB9B" cx="311" cy="772.5" r="130.5"/>
                     <g id="build-title">
-                      <text transform="matrix(1 0 0 1 287.0991 691.5059)" fill="#000" className='text-xl'>target</text>
+                      <text transform="matrix(1 0 0 1 270.0991 691.5059)" fill="#000" className='text-xl'>target C</text>
                     </g>
                     <g id="build-details">
                       <text transform="matrix(1 0 0 1 226.1045 731.6289)" fill="#000" className='text-sm'>Partnerships</text>
