@@ -2,7 +2,7 @@
 import React, { useRef, useState } from 'react';
 import Image from 'next/image';
 import Header from '../../../components/Header';
-import Bg from '../../../assets/crypto_bg1.png';
+import Bg from '../../../assets/backgrounds/bg5.png';
 const ComingSoonPage = () => {
     return (
       <div className='w-full h-screen'>

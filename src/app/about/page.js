@@ -9,7 +9,7 @@ import Header from '../../../components/Header';
 import Home1_bg from '../../../assets/backgrounds/bg1.jpg';
 import Home2_bg from '../../../assets/backgrounds/bg2.jpg';
 import Home3_bg  from '../../../assets/backgrounds/bg3.jpg';
-import LeftArrow_Icon from '../../../assets/whiteLeftArrow.svg';
+import LeftArrow_Icon from '../../../assets//icons/whiteLeftArrow.svg';
 
 const About = () => {
     const [sliderChanger,setSliderChanger] = useState(false);

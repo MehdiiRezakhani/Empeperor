@@ -3,9 +3,9 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 //media 
-import Nav_Icon from '../assets/nav_Icon.svg';
-import Home_Icon from '../assets/home_Icon.svg';
-import About_Icon from '../assets/AboutIcon.svg';
+import Nav_Icon from '../assets/icons/nav_Icon.svg';
+import Home_Icon from '../assets/icons/home_Icon.svg';
+import About_Icon from '../assets/icons/AboutIcon.svg';
 
 
 export default function TemporaryDrawer() {
@@ -13,7 +13,7 @@ export default function TemporaryDrawer() {
       {label:'Home', name:'',  icon:Home_Icon},
       {label:'About',name:'about', icon:About_Icon},
       {label:"RoadMap", name:"roadmap"},
-      {label:"Token Econicts", name:"comingsoon"},
+      {label:"Token Econicts", name:"tokeneconomics"},
       {label:"Doc", name:"comingsoon"},
       {label:"Buy Empeper", name:"comingsoon"},
     ];

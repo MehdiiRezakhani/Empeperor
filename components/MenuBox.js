@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 //assets
-import Home_Icon from '../assets/home_Icon.svg';
+import Home_Icon from '../assets/icons/home_Icon.svg';
 
 //component
 import Drawer from '../components/Drawer';

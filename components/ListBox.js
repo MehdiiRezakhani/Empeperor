@@ -4,7 +4,7 @@ import React from 'react';
 const ListBox = () => {
     const ListArr = [
         {title:"RoadMap", Link:"roadmap"},
-        {title:"Token Econicts", Link:""},
+        {title:"Token Econicts", Link:"tokeneconomics"},
         {title:"Doc", Link:""},
         {title:"About", Link:"about"},
         {title:"Buy Empeper", Link:""},
